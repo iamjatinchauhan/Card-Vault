@@ -4,4 +4,4 @@ Idea & Task was to develop reliable Payments Solution for daily Consumer needs. 
 
 ## :pushpin:It's just a sort of Prototype. Just to show how it could be.
 
-![Title](./image/title.png)
+![Title](./image/title.jpg)

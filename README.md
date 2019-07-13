@@ -5,7 +5,7 @@ Idea & Task was to develop reliable Payments Solution for daily Consumer needs. 
 ---
 ## Representation
 
-#### Check here [More](DAILY LIFE & PAYMENTS  MADE EASY.pdf)
+#### Check here [More](https://github.com/mrjatinchauhan/Card-Vault/blob/master/DAILY%20LIFE%20%26%20PAYMENTS%20%20MADE%20EASY.pdf)
 
 ![Reference](./image/reference.jpg)
 ![Title](./image/title.jpg)

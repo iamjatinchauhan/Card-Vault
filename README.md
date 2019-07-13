@@ -5,7 +5,7 @@ Idea & Task was to develop reliable Payments Solution for daily Consumer needs. 
 ---
 ## Representation
 
-#### Check here [More](DAILY-LIFE-&-PAYMENTS--MADE-EASY.pdf)
+#### Check here [More](DAILY LIFE & PAYMENTS  MADE EASY.pdf)
 
 ![Reference](./image/reference.jpg)
 ![Title](./image/title.jpg)
